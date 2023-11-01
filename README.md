@@ -1,5 +1,7 @@
 # Tabata
 
+!['Girl in the gym with tabata coach'](./gh-hero.png)
+
 A svelte tabata timer app for learning purposes. 
 
 - Build a website with svelte

@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///Users/dpointeck/Projects/tabata/.github/workflows/deploy.yml"
+    }
+}

@@ -25,7 +25,7 @@ jobs:
           tags: ghcr.io/${{ github.actor }}/${{ env.IMAGE_NAME }}:${{ env.IMAGE_TAG }}
         env:
           IMAGE_TAG: latest
-          IMAGE_NAME: actions-noob
+          IMAGE_NAME: tabata
   deploy:
     name: 🐳 Deploy
     runs-on: ubuntu-latest
